@@ -1,0 +1,6 @@
+test: training\dataset\test/images
+train: training\dataset\train/images
+val: training\dataset\valid/images
+
+nc: 8
+names: ['bicycle', 'bus', 'car', 'motorcycle', 'pedestrian', 'pothole', 'sign', 'traffic light']
